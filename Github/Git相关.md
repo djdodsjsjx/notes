@@ -57,7 +57,7 @@ git remote add origin git@github.com:djdodsjsjx/leaning-note.git
 ```
 ##将本地仓库的文件推送至Github仓库
 ```
-git push origin main
+git push -u origin main
 ```
 
 ##总结
@@ -67,5 +67,5 @@ git add README.md
 git commit -m "first commit" 
 git branch -M main 
 git remote add origin https://github.com/djdodsjsjx/-.git
-git push origin main
+git push -u origin main
  ```
