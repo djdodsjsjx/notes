@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.md": "markdown",
+        "*.cpp": "cpp",
+        "string.h": "c",
+        "stdio.h": "c"
+    }
+}
