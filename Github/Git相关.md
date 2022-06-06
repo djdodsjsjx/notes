@@ -61,11 +61,13 @@ git push -u origin main
 ````
 
 ##总结
+创建仓库时，下面三个选项不选
+push时，有时网络不稳定，多试几次
 ```
 git init 
 git add . 
-git commit -m "***" 
+git commit -m "first" ("first"表示提交时的备注)
 git branch -M main 
 git remote add origin https://github.com/djdodsjsjx/-.git
 git push -u origin main
- ```
+```
